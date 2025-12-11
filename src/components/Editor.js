@@ -122,6 +122,9 @@ const Editor = ({ socketRef, roomId, onCodeChange }) => {
           autoCloseTags: true,
           autoCloseBrackets: true,
           lineNumbers: true,
+          allowDropFileTypes: true,
+          search: true,
+          lineWrapping: true,
         }
       );
 
