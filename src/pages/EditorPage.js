@@ -97,7 +97,7 @@ const EditorPage = () => {
       <div className="aside">
         <div className="asideInner">
           <div className="logo">
-            <img className="logoImage" src="/logo.png" alt="logo" />
+            <h1>ParallelCode</h1>
           </div>
           <h3>Connected</h3>
           <div className="clientsList">

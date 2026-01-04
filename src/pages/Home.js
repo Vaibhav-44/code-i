@@ -39,11 +39,7 @@ const Home = () => {
     return (
         <div className="homePageWrapper">
             <div className="formWrapper">
-                <img
-                    className="homePageLogo"
-                    src="/logo.png"
-                    alt="code-sync-logo"
-                />
+                <h1>ParallelCode</h1>
                 <h4 className="mainLabel">Generate new room or paste invitation ROOM ID</h4>
                 <div className="inputGroup">
                     <input
